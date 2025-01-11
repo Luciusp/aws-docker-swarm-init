@@ -1,6 +1,6 @@
 # AWS Docker Swarm Init
 
-A port of mrjgreen's aws-swarm-init to Python3 [found here](https://github.com/mrjgreen/aws-docker-swarm/tree/master/docker/aws-swarm-init). 
+A port of mrjgreen's aws-swarm-init to Python3 found [here](https://github.com/mrjgreen/aws-docker-swarm/tree/master/docker/aws-swarm-init). 
 
 Dockerhub build artifacts can be found [here](https://hub.docker.com/repository/docker/luciusp/aws-swarm-init/general).
 
