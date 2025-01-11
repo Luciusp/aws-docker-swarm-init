@@ -1,0 +1,9 @@
+FROM python:3.12.0a1-alpine3.16
+
+RUN pip install docker boto3
+
+WORKDIR /
+
+COPY entry.py /
+
+CMD ["python", "entry.py"]
